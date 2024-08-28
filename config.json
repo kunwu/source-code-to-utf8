@@ -1,0 +1,4 @@
+{
+    "source_folder": "test",
+    "file_suffixes": [".c", ".cpp", ".h", ".hpp", ".txt"]
+}
