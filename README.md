@@ -26,6 +26,14 @@ The `config.json` file contains the configuration for the script:
 - `source_folder`: The folder to be processed.
 - `file_suffixes`: The list of file suffixes to be considered as source code files.
 
+## Setup
+
+Before running the script, install the required dependencies:
+
+```sh
+pip install -r requirements.txt
+```
+
 ## Usage
 
 ### Running the Script
